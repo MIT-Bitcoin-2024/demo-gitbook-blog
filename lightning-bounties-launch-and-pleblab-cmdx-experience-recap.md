@@ -6,7 +6,7 @@ We have been grinding day and night to get it right and today's the day to show 
 
 #### Meme showing how we feel about Mexico + Bitcoin
 
-Add you best meme below...
+Add you best meme below...and earn sats be referencing this [issue](https://github.com/MIT-Bitcoin-2024/demo-gitbook-blog/issues/1).&#x20;
 
 
 
