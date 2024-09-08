@@ -2,14 +2,14 @@
 
 We have been grinding day and night to get it right and today's the day to show everyone else
 
-
-
 #### Meme showing how we feel about Mexico + Bitcoin
 
-Add you best meme below...and earn sats be referencing this [issue](https://github.com/MIT-Bitcoin-2024/demo-gitbook-blog/issues/1).&#x20;
+Add you best meme below...and earn sats be referencing this [issue](https://github.com/MIT-Bitcoin-2024/demo-gitbook-blog/issues/1).
 
 <figure><img src=".gitbook/assets/lb-bf.png" alt=""><figcaption></figcaption></figure>
 
 #### Audience comments on LB + PlebLab
 
 Add your reactions below 👇
+
+@sutt: _Viva opensource!_
