@@ -6,6 +6,9 @@ We have been grinding day and night to get it right and today's the day to show 
 
 Add you best meme below...and earn sats be referencing this [issue](https://github.com/MIT-Bitcoin-2024/demo-gitbook-blog/issues/1).
 
+my meme: 
+![Alt text](https://i.redd.it/swmcx9xl98od1.jpeg "a title")
+
 <figure><img src=".gitbook/assets/lb-bf.png" alt=""><figcaption></figcaption></figure>
 
 #### Audience comments on LB + PlebLab
