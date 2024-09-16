@@ -18,3 +18,5 @@ Add your reactions below 👇
 @sutt: _Viva opensource!_
 
 @willbountyhunter: _I came here to drink cerveza and earn sats...and I'm all out cerveza_
+
+@SonnyMonroe: Mexico + Bitcoin 🤝
